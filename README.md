@@ -1,3 +1,5 @@
+![Licença da aplicação](https://img.shields.io/github/license/rt-oliveira/Sistema-de-Registros-Financeiros.svg)
+
 # Sistema de Registros Financeiros
 
 Este software permitirá você gerenciar todas as suas finanças.
@@ -35,9 +37,4 @@ Para usar a aplicação:
   
   ## Contribuições
   
-  - Para contribuir:
-    1. Crie um fork deste repositório
-    2. Crie uma branch para fazer as alterações
-    3. Faça as alterações necessárias
-    4. Faça um commit, e envie para seu repositório remoto
-    5. Crie um Pull Request
+[![Como contribuir para o projeto](https://img.shields.io/badge/Contribuição-Como%20Contribuir-blue.svg)](CONTRIBUTING.md)
